@@ -13,4 +13,4 @@ I use Python 3.
 
 - [A. Watermelon] (https://codeforces.com/contest/4/problem/A)
 - [A. Lucky Division] (https://codeforces.com/contest/122/problem/A)
-- 
+- [A. Cheap Travel] (https://codeforces.com/problemset/problem/466/A)
